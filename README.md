@@ -1,3 +1,8 @@
+# Deployed application URLs:
+
+- [host_app (app1)](https://igorassislau-gmail-com-24-host-app-zephyr-example-7039dedbf-ze.zephyrcloud.app/)
+- [federated_app (app2)](https://igorassislau-gmail-com-23-federated-app-zephyr-ex-df8773e4f-ze.zephyrcloud.app/)
+
 # Webpack Module Federation Example
 
 A basic Module Federation setup with two React applications demonstrating micro-frontend architecture using Webpack 5.
